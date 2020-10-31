@@ -1,6 +1,6 @@
 ## Othello
 
-방탈 라이브러리를 이용하여 만든 오델로 게임입니다.
+방탈출 라이브러리를 이용한 오델로 게임입니다.
 
 - PLAYER: Black,  COMPUTER: White
 
